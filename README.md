@@ -5,4 +5,7 @@
  ```bash
  conda create --prefix .env/ python=3.7 -y && conda activate ./env
  ```
- 
+ ## create new Notebook 
+ ```
+ jupyter-notebook
+ ```
